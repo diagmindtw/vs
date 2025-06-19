@@ -1,0 +1,52 @@
+
+> medical-knowledge-site@1.0.0 build
+> vitepress build docs
+
+
+  vitepress v1.6.3
+
+✓ building client + server bundles...
+⠏ rendering pages...Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\Users\ai\Downloads\o\medical-knowledge-site\docs\.vitepress\.temp\surgery_CVS_冠狀動脈疾病及冠狀動脈繞道手術_(V) 冠狀動脈繞道術（Coronary artery bypass.md.js' imported from C:\Users\ai\Downloads\o\medical-knowledge-site\docs\.vitepress\.temp\app.js
+    at finalizeResolution (node:internal/modules/esm/resolve:275:11)
+    at moduleResolve (node:internal/modules/esm/resolve:860:10)
+    at defaultResolve (node:internal/modules/esm/resolve:984:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:716:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:640:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:623:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:276:38)
+    at onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:579:36)
+    at TracingChannel.tracePromise (node:diagnostics_channel:344:14)
+    at ModuleLoader.import (node:internal/modules/esm/loader:578:21) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///C:/Users/ai/Downloads/o/medical-knowledge-site/docs/.vitepress/.temp/surgery_CVS_%E5%86%A0%E7%8B%80%E5%8B%95%E8%84%88%E7%96%BE%E7%97%85%E5%8F%8A%E5%86%A0%E7%8B%80%E5%8B%95%E8%84%88%E7%B9%9E%E9%81%93%E6%89%8B%E8%A1%93_(V)%20%E5%86%A0%E7%8B%80%E5%8B%95%E8%84%88%E7%B9%9E%E9%81%93%E8%A1%93%EF%BC%88Coronary%20artery%20bypass.md.js'
+}
+⠋ rendering pages...Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\Users\ai\Downloads\o\medical-knowledge-site\docs\.vitepress\.temp\surgery_CVS_周邊血管疾病_上肢深層靜脈栓塞（Upper Extremity Deep Vein.md.js' imported from C:\Users\ai\Downloads\o\medical-knowledge-site\docs\.vitepress\.temp\app.js
+    at finalizeResolution (node:internal/modules/esm/resolve:275:11)
+    at moduleResolve (node:internal/modules/esm/resolve:860:10)
+    at defaultResolve (node:internal/modules/esm/resolve:984:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:716:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:640:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:623:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:276:38)
+    at onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:579:36)
+    at TracingChannel.tracePromise (node:diagnostics_channel:344:14)
+    at ModuleLoader.import (node:internal/modules/esm/loader:578:21) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///C:/Users/ai/Downloads/o/medical-knowledge-site/docs/.vitepress/.temp/surgery_CVS_%E5%91%A8%E9%82%8A%E8%A1%80%E7%AE%A1%E7%96%BE%E7%97%85_%E4%B8%8A%E8%82%A2%E6%B7%B1%E5%B1%A4%E9%9D%9C%E8%84%88%E6%A0%93%E5%A1%9E%EF%BC%88Upper%20Extremity%20Deep%20Vein.md.js'
+}
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\Users\ai\Downloads\o\medical-knowledge-site\docs\.vitepress\.temp\surgery_CVS_發紺型先天心臟病_全肺靜脈回流異常（Total anomalous pulmonary.md.js' imported from C:\Users\ai\Downloads\o\medical-knowledge-site\docs\.vitepress\.temp\app.js
+    at finalizeResolution (node:internal/modules/esm/resolve:275:11)
+    at moduleResolve (node:internal/modules/esm/resolve:860:10)
+    at defaultResolve (node:internal/modules/esm/resolve:984:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:716:12)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:640:25)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:623:38)
+    at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:276:38)
+    at onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:579:36)
+    at TracingChannel.tracePromise (node:diagnostics_channel:344:14)
+    at ModuleLoader.import (node:internal/modules/esm/loader:578:21) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///C:/Users/ai/Downloads/o/medical-knowledge-site/docs/.vitepress/.temp/surgery_CVS_%E7%99%BC%E7%B4%BA%E5%9E%8B%E5%85%88%E5%A4%A9%E5%BF%83%E8%87%9F%E7%97%85_%E5%85%A8%E8%82%BA%E9%9D%9C%E8%84%88%E5%9B%9E%E6%B5%81%E7%95%B0%E5%B8%B8%EF%BC%88Total%20anomalous%20pulmonary.md.js'
+}
+✓ rendering pages...
+build complete in 4.99s.
